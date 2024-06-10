@@ -13,6 +13,18 @@
         android:theme="@style/Theme.Chartsapp"
         tools:targetApi="31">
         <activity
+            android:name=".Static_PieChart"
+            android:exported="false" />
+        <activity
+            android:name=".Dynamic_PieChart"
+            android:exported="false" />
+        <activity
+            android:name=".Dynamic_LineChart"
+            android:exported="false" />
+        <activity
+            android:name=".Dynamic_BarGraph"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

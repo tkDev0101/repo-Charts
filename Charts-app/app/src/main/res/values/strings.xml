@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Charts-app</string>
+    <string name="value_1">Value 1</string>
+    <string name="value_2">Value 2</string>
+    <string name="value_3">Value 3</string>
+    <string name="value_4">Value 4</string>
+    <string name="back_2_main">Back 2 Main</string>
+    <string name="plot_chart">PLOT CHART</string>
 </resources>
